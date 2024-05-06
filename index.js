@@ -25,4 +25,4 @@ function executaPrograma() {
 
 }
 
-executaPrograma();
+setInterval(executaPrograma, 1000);
